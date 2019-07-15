@@ -1,0 +1,5 @@
+email:nyyanty18@kit.edu.kh
+first_name:Yanty
+last_name:Ny
+github_account:NyYanty
+year: batch6, 2019
